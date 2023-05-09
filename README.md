@@ -34,6 +34,10 @@ After the program has started, you can interact with four windows:
 - **Gazebo** is the 3D simulator environment with the obstacles and the robot 
 - **Dist_Speed_nodeC.py** is the window where distance from target and average speed of the robot are showed
 
+- To know the number of goals reached and canceled, type on another tab:
+
+      rosservice call /n_goal
+      
 - You can set the frequency from the launch file `assignment1.launch` inside of the `launch` folder, by changing the value and relaunch the program.
 
 # Installing and Running
