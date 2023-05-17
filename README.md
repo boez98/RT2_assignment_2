@@ -55,13 +55,32 @@ After the program has started, you can interact with four windows:
 
       catkin_make
 
-- to run the code, type the following command:
+- to run new code, type the following command:
+
+      roslaunch assignment_2_2022 rt2_assignment2.launch
+      
+- then run the **jupyter** node
+
+
+If you want the old version instead:
+
+- to run the same code inside the RT1_assignment_2 repository , type the following command:
 
       roslaunch assignment_2_2022 assignment1.launch
+    
 
+# LAB1 - DOXYGEN
+You can find the Doxygen documentation inside the docs folder in the repository RT1_assignment_2
 
+# LAB2 - JUPYTER
+Here you can find `Node_A_jupyter.ipynb`, the Node A written in Jupyter
+
+# LAB3 - Reserch
+Here you can find the research
 
 # Improvment
 - Improve user interface by being more clear in how set the inputs and give error message if the inputs are wrong
 - Improve the node B, distance and average speed are not in real time and are not very accurate
 
+# GRAPH
+![Blank diagram.pdf](https://github.com/boez98/RT1_assignment_2/files/10372052/Blank.diagram.pdf)
