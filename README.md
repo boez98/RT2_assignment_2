@@ -59,7 +59,7 @@ After the program has started, you can interact with four windows:
 
       roslaunch assignment_2_2022 rt2_assignment2.launch
       
-- then run the **jupyter** node
+- then run the **jupyter** node `Node_A_jupyter.ipynb`
 
 
 If you want the old version instead:
@@ -83,4 +83,5 @@ Here you can find the research
 - Improve the node B, distance and average speed are not in real time and are not very accurate
 
 # GRAPH
-![Blank diagram.pdf](https://github.com/boez98/RT1_assignment_2/files/10372052/Blank.diagram.pdf)
+Be sure that all the nodes and topics are active and connected like this!
+![rosgraph2.png](https://github.com/boez98/RT2_assignment_2/blob/main/rosgraph2.png)
