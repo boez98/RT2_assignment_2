@@ -81,6 +81,7 @@ Here you can find the research
 # Improvment
 - Improve user interface by being more clear in how set the inputs and give error message if the inputs are wrong
 - Improve the node B, distance and average speed are not in real time and are not very accurate
+- Implement the graph traiectory with goals positiones and obstacles detected from laser
 
 # GRAPH
 Be sure that all the nodes and topics are active and connected like this!
