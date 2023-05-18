@@ -85,10 +85,11 @@ Here you can find the research
 
 # GRAPH
 Be sure that all the nodes and topics are active and connected like this!
-![rosgraph2.png](https://github.com/boez98/RT2_assignment_2/blob/main/rosgraph2.png
+![rosgraph2.png](https://github.com/boez98/RT2_assignment_2/blob/main/rosgraph2.png)
 
 # How the Node works
 - In the section `12 All Widgets`:
+
       -  you can set or cancel the goal
       -  you can see a widget with the goal coordinate and the update number of goal reached/canceled
       -  you can see the distance from the nearest wall/obstacle
