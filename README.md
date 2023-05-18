@@ -87,8 +87,9 @@ Be sure that all the nodes and topics are active and connected like this!
 ![rosgraph2.png](https://github.com/boez98/RT2_assignment_2/blob/main/rosgraph2.png
 
 # How the Node works
-- In the section `7 Widgets interface for setting/canceling goal` you can set or cancel the goal
-- In the section `8 Result function and widget` you can see a widget with the goal coordinate and the update number of goal reached/canceled
-- In the section `10 Live pos and vel` you can see the live position and velocity of the robot
-- In the section `11 Movement graph` you can see the robot trajectory, my idea was also to add the various goal position and the wall position detected from lasers
-- In the section `14 Laser function and widget` you can see the distance from the nearest wall
+- In the section `12 All Widgets`:
+      -  you can set or cancel the goal
+      -  you can see a widget with the goal coordinate and the update number of goal reached/canceled
+      -  you can see the distance from the nearest wall/obstacle
+- In the section `13 Live pos and vel` you can see the live position and velocity of the robot
+- In the section `14 Movement graph` you can see the robot trajectory, my idea was also to add the various goal position and the wall position detected from lasers
