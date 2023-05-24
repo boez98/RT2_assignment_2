@@ -96,3 +96,5 @@ Be sure that all the nodes and topics are active and connected like this!
 - In the section `13 Live pos and vel` you can see the live position and velocity of the robot
 - In the section `14 Movement graph` you can see the robot trajectory and goal position 
 - In the section `15 Barplot goal` you can see the number of the reached/cancelled goals
+
+**NB: Section 14 and 15 should be run at the end of the session when you want to see the result**
