@@ -81,7 +81,7 @@ Here you can find the research
 # Improvment
 - Improve user interface by being more clear in how set the inputs and give error message if the inputs are wrong
 - Improve the node B, distance and average speed are not in real time and are not very accurate
-- Implement the graph traiectory with goals positiones and obstacles detected from laser
+- Implement the graph traiectory with obstacles position detected from laser
 
 # GRAPH
 Be sure that all the nodes and topics are active and connected like this!
@@ -94,4 +94,5 @@ Be sure that all the nodes and topics are active and connected like this!
       -  you can see a widget with the goal coordinate and the update number of goal reached/canceled
       -  you can see the distance from the nearest wall/obstacle
 - In the section `13 Live pos and vel` you can see the live position and velocity of the robot
-- In the section `14 Movement graph` you can see the robot trajectory, my idea was also to add the various goal position and the wall position detected from lasers
+- In the section `14 Movement graph` you can see the robot trajectory and goal position 
+- In the section `15 Barplot goal` you can see the number of the reached/cancelled goals
