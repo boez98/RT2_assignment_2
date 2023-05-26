@@ -76,7 +76,7 @@ You can find the Doxygen documentation inside the docs folder in the repository 
 Here you can find `Node_A_jupyter.ipynb`, the Node A written in Jupyter
 
 # LAB3 - Reserch
-Here you can find the research
+Here you can find the statistical research inside the folder RT2_3. Inside it you will find the matlab file with the statistical algorithm and the report `RT2_report_3` explaining the research and the results.
 
 # Improvment
 - Improve user interface by being more clear in how set the inputs and give error message if the inputs are wrong
