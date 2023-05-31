@@ -71,7 +71,7 @@ If you want the old version instead:
 
 # LAB1 - DOXYGEN
 You can find the Doxygen documentation inside the docs folder in the repository RT1_assignment_2
-
+https://boez98.github.io/RT1_assignment_2/html/md__r_e_a_d_m_e.html
 # LAB2 - JUPYTER
 Here you can find `Node_A_jupyter.ipynb`, the Node A written in Jupyter
 
